@@ -38,7 +38,7 @@
   
   ![Joined GitHub in 2024](https://img.shields.io/badge/Joined-2024-blue)
   ![Public Repos](https://img.shields.io/badge/Public%20Repos-10-blue)
-  <img src="https://komarev.com/ghpvc/?username=Abhishek-ai&label=Profile%20views&color=brightgreen&style=flat" alt="Abhishek-ai" />
+  <img src="https://komarev.com/ghpvc/?username=abhishekwandhekar01&label=Profile%20views&color=brightgreen&style=flat" alt="Abhishek-ai" />
 
 </div>
 
@@ -46,21 +46,21 @@
 
 <h2 align="center">📊 GitHub Analytics</h2>
 <p align="center">
-  <a href="https://github.com/Abhishek-ai">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-ai&count_private=true&show_icons=true&layout=compact&theme=tokyonight&hide_border=true"/>
+  <a href="https://github.com/abhishekwandhekar01">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekwandhekar01&count_private=true&show_icons=true&layout=compact&theme=tokyonight&hide_border=true"/>
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/Abhishek-ai">
+  <a href="https://github.com/abhishekwandhekar01">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhishek-ai&theme=tokyonight&hide_border=true"/>
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/Abhishek-ai">
-    <img width="435px" src="https://github-readme-stats.vercel.app/api?username=Abhishek-ai&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <a href="https://github.com/abhishekwandhekar01">
+    <img width="435px" src="https://github-readme-stats.vercel.app/api?username=abhishekwandhekar01&show_icons=true&theme=tokyonight&hide_border=true"/>
   </a>
-  <a href="https://github.com/Abhishek-ai">
-    <img width="390px" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-ai&theme=tokyonight&hide_border=true"/>
+  <a href="https://github.com/abhishekwandhekar01">
+    <img width="390px" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekwandhekar01&theme=tokyonight&hide_border=true"/>
   </a>
 </p>
 
