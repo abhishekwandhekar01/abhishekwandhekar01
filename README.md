@@ -56,7 +56,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/abhishekwandhekar01">
-    <img width="435px" src="https://github-readme-stats.vercel.app/api?username=abhishekwandhekar01&show_icons=true&theme=tokyonight&hide_border=true"/>
+    <img width="435px" src="https://github-readme-stats.vercel.app/api?username=abhishekwandhekar01&show_icons=true&count_private=true&theme=tokyonight"/>
   </a>
   <a href="https://github.com/abhishekwandhekar01">
     <img width="390px" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekwandhekar01&theme=tokyonight&hide_border=true"/>
