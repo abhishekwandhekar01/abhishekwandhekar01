@@ -38,7 +38,7 @@
   
   ![Joined GitHub in 2024](https://img.shields.io/badge/Joined-2024-blue)
   ![Public Repos](https://img.shields.io/badge/Public%20Repos-10-blue)
-  <img src="https://komarev.com/ghpvc/?username=abhishekwandhekar01&label=Profile%20views&color=brightgreen&style=flat" alt="Abhishek-ai" />
+  <img src="https://komarev.com/ghpvc/?username=abhishekwandhekar01&label=Profile%20views&color=brightgreen&style=flat" alt="abhishekwandhekar01" />
 
 </div>
 
@@ -52,7 +52,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/abhishekwandhekar01">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhishek-ai&theme=tokyonight&hide_border=true"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishekwandhekar01&theme=tokyonight&hide_border=true"/>
   </a>
 </p>
 <p align="center">
