@@ -2,7 +2,6 @@
 <h4 align="center">AI & Data Science Undergraduate | Focused on Machine Learning, Deep Learning & Intelligent Systems</h4>
 
 ---
-
 <div align="center">
 
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
